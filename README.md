@@ -1,6 +1,6 @@
-# TalkWithStrangers 👥🌐
+# TalkToStrangers 👥🌐
 
-**TalkWithStrangers** is a real-time, anonymous chat platform that connects random users globally through text and video chats. Designed to promote cultural exchange and open conversations, the platform ensures privacy and safety while offering customizable features.
+**TalkToStrangers** is a real-time, anonymous chat platform that connects random users globally through text and video chats. Designed to promote cultural exchange and open conversations, the platform ensures privacy and safety while offering customizable features.
 
 ![UI Preview](./src/Images/tts.png)
 
@@ -32,7 +32,7 @@
 ## 📸 UI Preview
 The interface is designed to be minimal, user-friendly, and accessible across devices.
 
-![User Interface](./assets/ui-preview.png)
+![User Interface](./src/Images/tts.png)
 
 ## 📄 License
 MIT License
